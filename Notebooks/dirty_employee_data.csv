@@ -1,0 +1,31 @@
+EmployeeID,Name,Age,Email,JoinDate,Department,Country,Salary
+101,Rahul Sharma,28,rahul.sharma@mail.com,2019-03-15,sales,india,50000
+102,Priya Verma,34,priya.verma@mail.com,15/06/2020,Sales, USA,"$62,000"
+103,Amit Kumar,,amit.kumar@mail.com,2018-11-02,IT,India,"58,000.00"
+104,Sneha Iyer,29,,"Jan 10, 2021", it ,usa,71000
+105,Rahul Sharma,28,rahul.sharma@mail.com,2019-03-15,sales,india,50000
+106,Vikram Singh,45,vikram.singh@mail.com,2017-07-22,HR,INDIA,
+107,Neha Gupta,31 years,neha.gupta@mail.com,22-08-2019,Human Resources,India,"$48,500"
+108,David Miller,39,david.miller@mail.com,2016-01-30,Finance,United States,85000
+109,Sara Khan,,sara.khan@mail.com,2020-09-12,finance, india,-15000
+110,Rohit Malhotra,26,rohit.malhotra@mail.com,2021-05-19,SALES,India,54000
+111,Ananya Das,150,ananya.das@mail.com,2019-12-01,Marketing,india,60000
+112,John Smith,41,john.smith@mail.com,11/03/2018,IT,usa,9999999
+113,Kavya Reddy,27,kavya.reddy@mail.com,2022-02-14, Sales,India ,52000
+114,Vikram Singh,45,vikram.singh@mail.com,2017-07-22,HR,INDIA,
+115,Meera Nair,33,,2020-06-25,hr,india,"49,000"
+116,Arjun Rao,-5,arjun.rao@mail.com,2021-08-09,it,India,63000
+117,Emily Clark,36,emily.clark@mail.com,"Mar 3, 2019",Finance ,USA,78000
+118,Sanjay Patel,44,sanjay.patel@mail.com,2015-10-10,sales,india,
+119,Isha Malhotra,30,isha.malhotra@mail.com,2020-01-01,Marketing,INDIA,57000
+120,Rohit Malhotra,26,rohit.malhotra@mail.com,2021-05-19,SALES,India,54000
+121,Karan Mehta,,karan.mehta@mail.com,2019-04-18,IT,india,66000
+122,Divya Menon,25,divya.menon@mail.com,07/12/2020,sales, USA,51000
+123,Robert Brown,48,,2016-09-09,Finance,usa,89000
+124,Pooja Nambiar,29,pooja.nambiar@mail.com,2021-11-11,HR,India,47000
+125,Aditya Joshi,37,aditya.joshi@mail.com,2018-03-03, IT,india,"$67,500"
+126,Kabir Chawla,31,kabir.chawla@mail.com,2019-07-07,sales,India,
+127,Lisa Wong,200,lisa.wong@mail.com,2020-10-20,Marketing,usa,62000
+128,Nikhil Bansal,34,nikhil.bansal@mail.com,2017-02-02,it,INDIA,59000
+129,Simran Kaur,,,2022-01-05,HR,india,45000
+130,Aditya Joshi,37,aditya.joshi@mail.com,2018-03-03, IT,india,"$67,500"
